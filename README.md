@@ -5,13 +5,13 @@ Simple command line interface for ensuring environment variables are defined.
 
 This is meant to be used with [npm scripts](https://docs.npmjs.com/misc/scripts) when environment variables are required for scripts.
 
-# Usage
+## Usage
 
 ```terminal
 $ defenv [ENVIRONMENT_VARIABLE]
 ```
 
-# Examples
+## Examples
 
 When the given environment variable is properly defined, the script outputs nothing.
 
